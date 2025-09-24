@@ -62,6 +62,7 @@ const localIpAddresses = [
   '172.31.255.255',
   '192.168.0.0',
   '192.168.255.255',
+  '100.64.0.0/10',
 ];
 
 const publicIpAddresses = [

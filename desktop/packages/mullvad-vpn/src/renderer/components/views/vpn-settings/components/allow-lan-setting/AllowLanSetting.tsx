@@ -42,6 +42,7 @@ export function AllowLanSetting() {
               <li>10.0.0.0/8</li>
               <li>172.16.0.0/12</li>
               <li>192.168.0.0/16</li>
+              <li>100.64.0.0/10</li>
               <li>169.254.0.0/16</li>
               <li>fe80::/10</li>
               <li>fc00::/7</li>
